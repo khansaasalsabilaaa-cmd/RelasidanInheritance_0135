@@ -1,6 +1,13 @@
 #ifndef ANAK_H
 #define ANAK_H
 
+#include <iostream>
+#include <string>
+
+using namespace std;
+
+class ibu; 
+
 class anak {
 public:
     string nama;
